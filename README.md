@@ -1,4 +1,4 @@
-# Parameter Dump
+# Module description to MD
 
 This project provides a script to extract and document parameters, functions, and classes from Python files. The script generates a Markdown file with the extracted information.
 
